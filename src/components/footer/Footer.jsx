@@ -106,7 +106,7 @@ function Footer() {
 
                 <div className="col-lg-3 col-md-6 col-sm-6">
                   <div className="address">
-                    <h3>Contact us</h3>
+                    <h3>Contact</h3>
                     <ul className="loca">
                       <li>
                         <a href="#">
